@@ -1,0 +1,257 @@
+body{
+    background-color: black !important;
+    color:white !important;
+}
+.k{
+    width: 80%;
+    margin: auto;
+}
+a{
+    color: azure !important;
+}
+.logoOne{
+    width: 130px;
+
+}
+.navbar-toggler {
+    border-color: white !important; /* Make the button border white */
+}
+
+.but{
+    background-color: aqua;
+    color:white;
+    padding-top: 10px;
+    padding-left:10px;
+    padding-right: 10px;
+    border-radius: 8px;
+}
+.but:hover{
+    cursor: pointer;
+    color: darkblue;
+}
+.social{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+
+}
+.piccc{
+    width:300px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.jd{
+    width: 90%;
+    margin:auto;
+}
+.coll{
+    color: aqua;
+}
+
+.capt{
+    margin: auto;
+}
+.uuu{
+    text-align: center;
+}
+
+.juj:hover{
+    cursor: pointer;
+    color: azure;
+}
+.icon{
+    display: flex;
+    gap:5px;
+}
+.carow{
+    width: 400px !important;
+    height: 300ox !important; ;
+}
+
+.one{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(173, 149, 149);
+    margin: auto;
+    margin-top: 30px !important;
+    border-radius:8px;
+}
+.pot{
+    padding: 20px;
+    background-color: #000306; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(255, 254, 254, 0.1);
+}
+
+.carousel{
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.im{
+    max-height: 300px;
+    object-fit: cover;
+}
+
+.info{
+    padding:20px;
+}
+
+.info h3{
+    font-weight:bold;
+}
+
+.info p{
+    margin-top:15px;
+}
+.btn {
+    margin-right:10px;
+    margin-top:10px;
+}
+.info{
+    width: 450px;
+}
+.ex{
+    width: 450px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.threee{
+    width: 40%;
+    align-items: center;
+}
+.edu{
+
+    width: 80%;
+    margin:auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.for{
+    margin:auto
+}
+.contact-us{
+    padding: 50px;
+    /* width: 75%;
+    margin: auto; */
+    box-shadow: 4px 4px 8px rgb(175, 175, 170);
+    width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 50px;
+    text-align: center;
+
+
+}
+.input-box{
+    padding: 15px;
+    width: 50%;
+    margin-top:10px;
+}
+.massage{
+   width:40%;
+   height: 100px;
+   margin-top:10px;
+}
+.sub{
+    padding:10px;
+    margin-top:10px;
+    background: linear-gradient(180deg,rgb(91, 89, 89));
+    color: aqua;
+    border: none;
+    border-radius:5px;
+
+}
+.sub:hover{
+    color: rgb(40, 106, 131);
+    cursor: pointer;
+}
+.jy{
+    margin-top:30px;
+}
+.hrr{
+    border:1px solid;
+
+}
+.foo{
+    display: flex;
+}
+.foot{
+    margin: auto;
+}
+.uuw{
+    width: 100%;
+}
+.t{
+    margin: auto;
+}
+.df{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:15px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.ii{
+
+    text-align: center;
+    margin-bottom: 15px;
+}
+.infor{
+    padding: 30px !important;
+}
+.y{
+    margin-top: 10px;
+}
+
+@media only screen and (min-width: 400px) and (max-width:767px){
+
+    .banner{
+        display: block;
+        text-align: center;
+        
+    }
+    .jd{
+        width: 100%;
+        margin:auto;
+    }
+    .social{
+        display: block;
+    }
+    .one{
+        display: block;
+        width: 108%;
+    }
+    .edu{
+        display: block;
+    }
+    .threee{
+        align-items: center;
+    }
+    .k{
+        width: 100%;
+    }
+    .pict{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .threee{
+        text-align: center;
+    }
+
+
+  
+}
+  
+  /* for tab */
+  @media only screen and (min-width: 768px) and (max-width:992px){
+  
+  }
